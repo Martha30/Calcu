@@ -93,7 +93,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="calc-wrapper">
+        <div className="calc">
           <div className="fila">
             <Input>{this.state.input}</Input>
           </div>
